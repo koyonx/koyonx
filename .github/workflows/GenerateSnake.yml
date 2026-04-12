@@ -21,7 +21,7 @@ jobs:
           outputs: |
             ./img/snake.svg
             ./img/snake-dark.svg?palette=github-dark
-          GITHUB_TOKEN: ${{ secrets.MYTOKEN }}
+          github_token: ${{ secrets.MYTOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@main
