@@ -12,5 +12,5 @@
   <img src="https://skillicons.dev/icons?i=rust,kotlin,py,fastapi,threejs,unity,blender,aws,gcp,linkedin&perline=10" />
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/koyonx/koyonx/main/img/snake.svg?v=2#gh-light-mode-only)
-![github contribution grid snake animation dark](https://raw.githubusercontent.com/koyonx/koyonx/main/img/snake-dark.svg?v=2#gh-dark-mode-only)
+![github contribution grid snake animation](./img/snake.svg?v=2#gh-light-mode-only)
+![github contribution grid snake animation dark](./img/snake-dark.svg?v=2#gh-dark-mode-only)
