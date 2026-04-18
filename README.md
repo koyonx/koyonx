@@ -1,4 +1,4 @@
-## My skills
+## My skills (Enough to be dangerous)
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,go,java,ocaml,ruby,js,ts,html,css,react,nextjs,vite,tailwind,rails,graphql,npm,mysql,postgres,redis,docker,nginx,linux,ubuntu,windows,raspberrypi,bash,git,github,gitlab,vscode,webstorm,figma,sentry,notion,discord,gmail&perline=10" />
