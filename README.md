@@ -93,9 +93,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./output/metrics.svg?v=1" alt="GitHub Metrics" />
-</p>
+![GitHub Metrics](./output/metrics.svg?v=1)
 
 <br/>
 
@@ -105,11 +103,8 @@
 
 ## 🐍 Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg?v=2">
-  <img alt="github contribution grid snake animation" src="./img/snake.svg?v=2">
-</picture>
+![github contribution grid snake animation](./img/snake.svg?v=2#gh-light-mode-only)
+![github contribution grid snake animation dark](./img/snake-dark.svg?v=2#gh-dark-mode-only)
 
 <br/>
 
