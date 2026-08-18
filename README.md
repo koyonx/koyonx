@@ -61,9 +61,6 @@
 
 ## 🧰 Tech Stack / 技術スタック
 
-> 現在の分類は仮置きです。適宜アイコンを移動してください。
-> _Initial buckets are placeholders — feel free to shuffle icons across rows._
-
 ### 🟢 Production-ready / 業務レベル
 <sub>実務で日常的に使い、設計・レビューまでこなせるもの</sub>
 
