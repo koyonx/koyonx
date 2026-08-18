@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 1 * * *"
 
+# Same reason as metrics.yml — snake commits back to main and must
+# not race with a concurrent run.
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-repository:
     name: Update this repo's README with repository_owner

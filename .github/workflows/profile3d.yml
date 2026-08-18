@@ -7,6 +7,12 @@ on:
     branches:
       - main
 
+# Same reason as metrics.yml — 3D graph commits back to main and
+# must not race with a concurrent run.
+concurrency:
+  group: profile3d-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
