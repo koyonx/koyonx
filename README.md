@@ -7,7 +7,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=koyonx&fontSize=70&fontAlignY=45&fontColor=ffffff&animation=fadeIn)
 
 <a href="https://github.com/koyonx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6EE7B7&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Full-stack+developer+%E2%80%94+FE+%2F+BE+%2F+Infra;%E6%89%8B%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6%E6%B4%BE+%E2%9C%A8;Ship.+Learn.+Iterate." alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6EE7B7&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Full-stack+developer+%E2%80%94+FE+%2F+BE+%2F+Infra;Always+learning%2C+always+shipping;Let%27s+build+something+great" alt="typing SVG" />
 </a>
 
 <p>
