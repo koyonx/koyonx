@@ -4,11 +4,10 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=koyonx&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=koyonx&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Kyosuke%20Kuramoto%20%E2%80%94%20Full-stack%20Engineer&descAlignY=60&descSize=18)
 
-<!-- Typing animation -->
 <a href="https://github.com/koyonx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=560&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Building+products+that+move+teams+forward;%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%89%8D%E9%80%B2%E3%82%92%E9%80%9F%E3%81%8F%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD" alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Full-stack+engineer+%40+Coadmap;%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%89%8D%E9%80%B2%E3%82%92%E9%80%9F%E3%81%8F%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD" alt="typing SVG" />
 </a>
 
 <p>
@@ -28,18 +27,41 @@
 
 <!--
   ▼ ここは自由に書き換えてください / Fill this in freely
-  例: 一言プロフィール、現在の取り組み、興味のある領域 など
 -->
 
 **EN:**
-- 🛠️ _write about yourself here_
-- 🌱 Currently exploring _..._
-- 💬 Ask me about _..._
+- 🧑‍💼 Full-stack engineer intern at **[Coadmap, Inc.](https://coadmap.com/)** — building both product and internal tools end-to-end
+- 🎓 Applied Life Sciences @ Tokyo University of Pharmacy and Life Sciences / also studying CS at **42 Tokyo**
+- 🌱 Currently deepening: _write here_
+- 💬 Feel free to reach out about: _write here_
 
 **JP:**
-- 🛠️ _ここに自己紹介を書いてください_
-- 🌱 いま学んでいるもの: _..._
-- 💬 気軽に話しかけてください: _..._
+- 🧑‍💼 **[株式会社Coadmap](https://coadmap.com/)** でフルスタックエンジニアとして自社プロダクト・受託案件・社内Webサイトなどを横断的に開発
+- 🎓 東京薬科大学 生命科学部応用生命科学科 / 並行して **42 Tokyo** でコンピュータサイエンスを学習中
+- 🌱 いま深めているもの: _write here_
+- 💬 気軽に話しかけてください: _write here_
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     Experience & Achievements / 経歴・実績
+════════════════════════════════════════════════════════════════════ -->
+
+## 🏅 Experience & Achievements / 経歴・実績
+
+### 💼 Experience
+
+| Period | Role | Where |
+|---|---|---|
+| 2025.10 – Present | Full-stack Engineer (Intern) | **[Coadmap, Inc.](https://coadmap.com/)** |
+| 2025.04 – 2028.03 | Computer Science (learning) | **42 Tokyo** |
+| 2023.04 – 2027.03 | 生命科学部 応用生命科学科 | **東京薬科大学** |
+
+### 🏆 Awards / 受賞歴
+
+- 🥇 **AI Agent Challenge — 優勝 / Winner** _(2026.02)_
+- 🥈 **SMARTSCAPE CUP Hackathon Battle 2026 — 準優勝 / Runner-up** _(2026.05)_
+- 🥇 **SMARTSCAPE CUP ハッカソンバトル 2025 — 優勝 / Winner** _(2025.05)_
 
 <br/>
 
@@ -79,7 +101,7 @@
      Links / 外部リンク
 ════════════════════════════════════════════════════════════════════ -->
 
-## 🔗 Links / 外部リンク
+## 🔗 Links / 外部リンク _(WIP)_
 
 <!--
   ▼ href="#" を実際のURLに書き換えてください / Replace href="#" with real URLs.
@@ -87,6 +109,7 @@
 -->
 
 <p>
+  <a href="https://www.wantedly.com/id/kyosuke_kuramoto"><img src="https://img.shields.io/badge/Wantedly-00A4BB?style=for-the-badge&logo=wantedly&logoColor=white" alt="Wantedly" /></a>
   <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
@@ -108,15 +131,6 @@
   <img src="./output/metrics.svg?v=1" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=koyonx&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=koyonx&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyonx&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="top langs" />
-</p>
-
 ### 🏆 Trophies
 
 <p align="center">
@@ -135,20 +149,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg?v=2">
   <img alt="github contribution grid snake animation" src="./img/snake.svg?v=2">
-</picture>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════
-     3D Contribution Graph
-════════════════════════════════════════════════════════════════════ -->
-
-## 🧊 3D Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg?v=1">
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg?v=1">
 </picture>
 
 <br/>
