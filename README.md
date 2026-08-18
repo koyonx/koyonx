@@ -4,10 +4,10 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=koyonx&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Kyosuke%20Kuramoto%20%E2%80%94%20Full-stack%20Engineer&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=koyonx&fontSize=70&fontAlignY=45&fontColor=ffffff&animation=fadeIn)
 
 <a href="https://github.com/koyonx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Full-stack+engineer+%E2%80%94+FE+%2F+BE+%2F+Infra;%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%89%8D%E9%80%B2%E3%82%92%E9%80%9F%E3%81%8F%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD" alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6EE7B7&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Full-stack+developer+%E2%80%94+FE+%2F+BE+%2F+Infra;%E6%89%8B%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6%E6%B4%BE+%E2%9C%A8;Ship.+Learn.+Iterate." alt="typing SVG" />
 </a>
 
 <p>
