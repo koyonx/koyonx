@@ -68,14 +68,14 @@
 <sub>実務で日常的に使い、設計・レビューまでこなせるもの</sub>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,ruby,rails,react,nextjs,graphql,postgres,npm,redis,docker,nginx,vscode,webstorm,html,css,figma,sentry,notion,git,github&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,ruby,rails,react,nextjs,graphql,postgres,npm,redis,docker,nginx,vscode,webstorm,html,css,figma,sentry,notion,git,discord,gmail,github&perline=12" />
 </p>
 
 ### 🟡 Working knowledge / 使えるレベル
 <sub>手を動かして書ける・読めるが、深掘りの余地があるもの</sub>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,java,ocaml,tailwind,vite,js,mysql,linux,ubuntu,bash,gitlab&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,java,ocaml,tailwind,vite,js,mysql,linux,ubuntu,windows,raspberrypi,bash,gitlab&perline=12" />
 </p>
 
 ### 🔵 Learning next / 今後勉強予定
