@@ -30,14 +30,14 @@
 -->
 
 **EN:**
-- 🧑‍💼 Full-stack engineer intern at **[Coadmap, Inc.](https://coadmap.com/)** — building both product and internal tools end-to-end
-- 🎓 Applied Life Sciences @ Tokyo University of Pharmacy and Life Sciences / also studying CS at **42 Tokyo**
+- 🧑‍💼 Full-stack engineer — building web products, internal tools, and hackathon prototypes end-to-end (frontend, backend, infra)
+- 🎓 Applied Life Sciences @ **Tokyo University of Pharmacy and Life Sciences** / also studying CS at **[42 Tokyo](https://42tokyo.jp/)**
 - 🌱 Currently deepening: _write here_
 - 💬 Feel free to reach out about: _write here_
 
 **JP:**
-- 🧑‍💼 **[株式会社Coadmap](https://coadmap.com/)** でフルスタックエンジニアとして自社プロダクト・受託案件・社内Webサイトなどを横断的に開発
-- 🎓 東京薬科大学 生命科学部応用生命科学科 / 並行して **42 Tokyo** でコンピュータサイエンスを学習中
+- 🧑‍💼 フルスタックエンジニア — Webプロダクト・社内ツール・ハッカソンのプロトタイプまで、フロント／バック／インフラを横断して開発
+- 🎓 **東京薬科大学** 生命科学部応用生命科学科 / 並行して **[42 Tokyo](https://42tokyo.jp/)** でコンピュータサイエンスを学習中
 - 🌱 いま深めているもの: _write here_
 - 💬 気軽に話しかけてください: _write here_
 
@@ -49,9 +49,9 @@
 
 ## 🏅 Awards / 受賞・実績
 
-- 🥇 **AI Agent Challenge — 優勝 / Winner** _(2026.02)_
-- 🥈 **SMARTSCAPE CUP Hackathon Battle 2026 — 準優勝 / Runner-up** _(2026.05)_
-- 🥇 **SMARTSCAPE CUP ハッカソンバトル 2025 — 優勝 / Winner** _(2025.05)_
+- 🥇 [**AI Agent Challenge — 優勝 / Winner**](https://www.wantedly.com/id/kyosuke_kuramoto/items/c6fa714e-0bcd-4783-9716-be009d0d069a) _(2026.02)_
+- 🥈 [**SMARTSCAPE CUP Hackathon Battle 2026 — 準優勝 / Runner-up**](https://www.wantedly.com/id/kyosuke_kuramoto/items/c67f6ada-ac1d-4a81-8609-941735b066f3) _(2026.05)_
+- 🥇 [**SMARTSCAPE CUP ハッカソンバトル 2025 — 優勝 / Winner**](https://www.wantedly.com/id/kyosuke_kuramoto/items/d473b986-af99-4d4a-a9ca-eeadebeae4d0) _(2025.05)_
 
 <br/>
 
@@ -107,18 +107,6 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════
-     Trophies
-════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koyonx&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
 <br/>
