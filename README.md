@@ -44,28 +44,6 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════
-     Experience & Achievements / 経歴・実績
-════════════════════════════════════════════════════════════════════ -->
-
-## 🏅 Experience & Achievements / 経歴・実績
-
-### 💼 Experience
-
-| Period | Role | Where |
-|---|---|---|
-| 2025.10 – Present | Full-stack Engineer (Intern) | **[Coadmap, Inc.](https://coadmap.com/)** |
-| 2025.04 – 2028.03 | Computer Science (learning) | **42 Tokyo** |
-| 2023.04 – 2027.03 | 生命科学部 応用生命科学科 | **東京薬科大学** |
-
-### 🏆 Awards / 受賞歴
-
-- 🥇 **AI Agent Challenge — 優勝 / Winner** _(2026.02)_
-- 🥈 **SMARTSCAPE CUP Hackathon Battle 2026 — 準優勝 / Runner-up** _(2026.05)_
-- 🥇 **SMARTSCAPE CUP ハッカソンバトル 2025 — 優勝 / Winner** _(2025.05)_
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════
      Tech Stack / 技術スタック
 ════════════════════════════════════════════════════════════════════ -->
 
@@ -122,16 +100,10 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════
-     GitHub Stats
+     Trophies
 ════════════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./output/metrics.svg?v=1" alt="GitHub Metrics" />
-</p>
-
-### 🏆 Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=koyonx&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
