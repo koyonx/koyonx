@@ -7,7 +7,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=koyonx&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Kyosuke%20Kuramoto%20%E2%80%94%20Full-stack%20Engineer&descAlignY=60&descSize=18)
 
 <a href="https://github.com/koyonx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Full-stack+engineer+%40+Coadmap;%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%89%8D%E9%80%B2%E3%82%92%E9%80%9F%E3%81%8F%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD" alt="typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Full-stack+engineer+%E2%80%94+FE+%2F+BE+%2F+Infra;%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%89%8D%E9%80%B2%E3%82%92%E9%80%9F%E3%81%8F%E3%81%99%E3%82%8B%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD" alt="typing SVG" />
 </a>
 
 <p>
@@ -49,9 +49,9 @@
 
 ## 🏅 Awards / 受賞・実績
 
-- 🥇 [**AI Agent Challenge — 優勝 / Winner**](https://www.wantedly.com/id/kyosuke_kuramoto/items/c6fa714e-0bcd-4783-9716-be009d0d069a) _(2026.02)_
-- 🥈 [**SMARTSCAPE CUP Hackathon Battle 2026 — 準優勝 / Runner-up**](https://www.wantedly.com/id/kyosuke_kuramoto/items/c67f6ada-ac1d-4a81-8609-941735b066f3) _(2026.05)_
-- 🥇 [**SMARTSCAPE CUP ハッカソンバトル 2025 — 優勝 / Winner**](https://www.wantedly.com/id/kyosuke_kuramoto/items/d473b986-af99-4d4a-a9ca-eeadebeae4d0) _(2025.05)_
+- 🥇 [**AI Agent Challenge — 優勝 / Winner**](https://www.cyberagent.co.jp/techinfo/news/detail/id=32920) _(2026.02)_
+- 🥈 [**SMARTSCAPE CUP Hackathon Battle 2026 — 準優勝 / Runner-up**](https://www.smartscape.co.jp/news/20260611) _(2026.05)_
+- 🥇 [**SMARTSCAPE CUP ハッカソンバトル 2025 — 優勝 / Winner**](https://www.smartscape.co.jp/news/20250603) _(2025.05)_
 
 <br/>
 
@@ -84,6 +84,46 @@
 <p>
   <img src="https://skillicons.dev/icons?i=rust,kotlin,py,fastapi,threejs,unity,blender,aws,gcp&perline=10" />
 </p>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     GitHub Stats
+════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./output/metrics.svg?v=1" alt="GitHub Metrics" />
+</p>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     Snake Animation
+════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg?v=2">
+  <img alt="github contribution grid snake animation" src="./img/snake.svg?v=2">
+</picture>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
+     3D Contribution Graph
+════════════════════════════════════════════════════════════════════ -->
+
+## 🧊 3D Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg?v=1">
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg?v=1">
+</picture>
 
 <br/>
 
