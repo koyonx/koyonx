@@ -44,6 +44,18 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════
+     Awards / 受賞・実績
+════════════════════════════════════════════════════════════════════ -->
+
+## 🏅 Awards / 受賞・実績
+
+- 🥇 **AI Agent Challenge — 優勝 / Winner** _(2026.02)_
+- 🥈 **SMARTSCAPE CUP Hackathon Battle 2026 — 準優勝 / Runner-up** _(2026.05)_
+- 🥇 **SMARTSCAPE CUP ハッカソンバトル 2025 — 優勝 / Winner** _(2025.05)_
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════
      Tech Stack / 技術スタック
 ════════════════════════════════════════════════════════════════════ -->
 
@@ -108,20 +120,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=koyonx&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </p>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════
-     Contribution Snake
-════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./img/snake.svg?v=2">
-  <img alt="github contribution grid snake animation" src="./img/snake.svg?v=2">
-</picture>
 
 <br/>
 
